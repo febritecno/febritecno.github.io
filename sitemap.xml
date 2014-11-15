@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://febritecno.github.io/blog/2014/11/15/asik/</loc>
+    <lastmod>2014-11-15T13:10:55+07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://febritecno.github.io/blog/2014/11/15/mengenal-octopress-lebih-jauh/</loc>
     <lastmod>2014-11-15T10:36:35+07:00</lastmod>
     <priority>0.8</priority>
@@ -11,16 +16,34 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://febritecno.github.io/blog/archives/</loc>
-    <lastmod>2014-11-15T10:40:04+07:00</lastmod>
+    <loc>http://febritecno.github.io/404.html</loc>
+    <lastmod>2014-11-15T15:37:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://febritecno.github.io/</loc>
-    <lastmod>2014-11-15T10:40:04+07:00</lastmod>
+    <lastmod>2014-11-15T15:37:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://febritecno.github.io/blog/archives/</loc>
+    <lastmod>2014-11-15T15:37:22+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://febritecno.github.io/privacy/</loc>
+    <lastmod>2014-11-15T15:37:22+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://febritecno.github.io/search.html</loc>
+    <lastmod>2014-11-15T15:37:22+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>http://febritecno.github.io/Tugas1/Andre.html</loc>
