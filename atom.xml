@@ -4,7 +4,7 @@
   <title><![CDATA[Newbie Tech]]></title>
   <link href="http://febritecno.github.io/atom.xml" rel="self"/>
   <link href="http://febritecno.github.io/"/>
-  <updated>2014-11-15T15:41:37+07:00</updated>
+  <updated>2014-11-15T15:59:42+07:00</updated>
   <id>http://febritecno.github.io/</id>
   <author>
     <name><![CDATA[febritecno]]></name>
@@ -12,24 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Asik]]></title>
-    <link href="http://febritecno.github.io/blog/2014/11/15/asik/"/>
-    <updated>2014-11-15T13:10:55+07:00</updated>
-    <id>http://febritecno.github.io/blog/2014/11/15/asik</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Kenalan Yuk Sama Si Octopress]]></title>
-    <link href="http://febritecno.github.io/blog/2014/11/15/mengenal-octopress-lebih-jauh/"/>
-    <updated>2014-11-15T10:36:35+07:00</updated>
-    <id>http://febritecno.github.io/blog/2014/11/15/mengenal-octopress-lebih-jauh</id>
-    <content type="html"><![CDATA[<p>LAGI DI BUAT</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to Install Theme Octopress]]></title>
@@ -43,6 +25,9 @@
 <p>Oke, kita fokus ke tujuan kita, kita akan mencoba untuk meninstall theme berbeda pada octopress kita.</p>
 
 <p>Eh, ngomong-ngomong kalian pakai ? jommla,druppal atau wordpress. kalian terlalu mainstream banget. coba kalian gunakan Octopress, lebih responsif dan portable.</p>
+
+<!-- more -->
+
 
 <p>Kanapa bisa portable? karena Octapress tidak mengunakan hostingan,php,database. dan lebih mudah untuk mengatur postingan.</p>
 
