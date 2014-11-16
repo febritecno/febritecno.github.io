@@ -4,7 +4,7 @@
   <title><![CDATA[Newbie Tech]]></title>
   <link href="http://febritecno.github.io/atom.xml" rel="self"/>
   <link href="http://febritecno.github.io/"/>
-  <updated>2014-11-15T15:59:42+07:00</updated>
+  <updated>2014-11-17T00:04:48+07:00</updated>
   <id>http://febritecno.github.io/</id>
   <author>
     <name><![CDATA[febritecno]]></name>
@@ -18,20 +18,20 @@
     <link href="http://febritecno.github.io/blog/2014/11/14/how-to-install-theme-octopress/"/>
     <updated>2014-11-14T22:17:17+07:00</updated>
     <id>http://febritecno.github.io/blog/2014/11/14/how-to-install-theme-octopress</id>
-    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/roberto/oct2-orange/master/screenshot.png" alt="theme" /></p>
+    <content type="html"><![CDATA[<p><img src="http://febritecno.github.io/gbr/s.png" alt="theme" /></p>
 
 <p>Hello Guys, saya mau coba aja membuat hal yang berbeda dengan octo kamu. semua orang pasti senang dengan tampilan yang berbeda pada setiap laman blog maupun website.</p>
-
-<p>Oke, kita fokus ke tujuan kita, kita akan mencoba untuk meninstall theme berbeda pada octopress kita.</p>
-
-<p>Eh, ngomong-ngomong kalian pakai ? jommla,druppal atau wordpress. kalian terlalu mainstream banget. coba kalian gunakan Octopress, lebih responsif dan portable.</p>
 
 <!-- more -->
 
 
-<p>Kanapa bisa portable? karena Octapress tidak mengunakan hostingan,php,database. dan lebih mudah untuk mengatur postingan.</p>
+<p>Oke, kita fokus ke tujuan kita, kita akan mencoba untuk menginstall theme berbeda pada octopress kita.</p>
 
-<p>Serta yang paling hebat bebas dari hacker, yaiyalah gk databasenya dan hostingan di flashdisk/HDD cuma menggunakan media github/Social code saja untuk bisa tampil diinternet. oke gitu aja pengenalannya.</p>
+<p>Eh, ngomong-ngomong kalian pakai CMS apa ? jommla,druppal atau wordpress. kalian terlalu mainstream banget kalau pakai itu. apa lagi pakai blogger, coba kalian gunakan Framework Octopress, lebih responsif dan portable :) .</p>
+
+<p>Kanapa bisa portable? karena Octopress tidak mengunakan hostingan dan bisa disimpan di flashdisk kita sendiri. dan lebih mudah untuk mengatur blog Secara offline.</p>
+
+<p>Serta yang paling hebat bebas dari hacker, yaiyalah karena gk databasenya dan hostingan di flashdisk/HDD cuma menggunakan media github/Social code saja untuk bisa tampil di internet. oke gitu aja pengenalannya.</p>
 
 <h5>Berikut cara menginstall/mengganti theme pada Octopress :</h5>
 
