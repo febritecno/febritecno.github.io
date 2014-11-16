@@ -4,7 +4,7 @@
   <title><![CDATA[Newbie Tech]]></title>
   <link href="http://febritecno.github.io/atom.xml" rel="self"/>
   <link href="http://febritecno.github.io/"/>
-  <updated>2014-11-17T05:34:02+07:00</updated>
+  <updated>2014-11-17T05:52:07+07:00</updated>
   <id>http://febritecno.github.io/</id>
   <author>
     <name><![CDATA[febritecno]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Yuk Kenalan Dulu Sama Framework Octopress]]></title>
+    <link href="http://febritecno.github.io/blog/2014/11/17/yuk-kenalan-dulu-sama-framework-octopress/"/>
+    <updated>2014-11-17T05:50:44+07:00</updated>
+    <id>http://febritecno.github.io/blog/2014/11/17/yuk-kenalan-dulu-sama-framework-octopress</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to Install Theme Octopress]]></title>
