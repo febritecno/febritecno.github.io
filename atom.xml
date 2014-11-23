@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Newbie Tech]]></title>
+  <link href="http://febritecno.github.io/atom.xml" rel="self"/>
+  <link href="http://febritecno.github.io/"/>
+  <updated>2014-11-17T01:39:38+07:00</updated>
+  <id>http://febritecno.github.io/</id>
+  <author>
+    <name><![CDATA[febritecno]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to Install Theme Octopress]]></title>
+    <link href="http://febritecno.github.io/blog/2014/11/14/how-to-install-theme-octopress/"/>
+    <updated>2014-11-14T22:17:17+07:00</updated>
+    <id>http://febritecno.github.io/blog/2014/11/14/how-to-install-theme-octopress</id>
+    <content type="html"><![CDATA[<p><img src="http://febritecno.github.io/gbr/s.png" alt="theme" /></p>
+
+<p>Hello Guys, saya mau coba aja membuat hal yang berbeda dengan octo kamu. semua orang pasti senang dengan tampilan yang berbeda pada setiap laman blog maupun website.</p>
+
+<!-- more -->
+
+
+<p>Oke, kita fokus ke tujuan kita, kita akan mencoba untuk menginstall theme berbeda pada octopress kita.</p>
+
+<p>Eh, ngomong-ngomong kalian pakai CMS apa ? jommla,druppal atau wordpress. kalian terlalu mainstream banget kalau pakai itu. apa lagi pakai blogger, coba kalian gunakan Framework Octopress, lebih responsif dan portable :) .</p>
+
+<p>Kanapa bisa portable? karena Octopress tidak mengunakan hostingan dan bisa disimpan di flashdisk kita sendiri. dan lebih mudah untuk mengatur blog Secara offline.</p>
+
+<p>Serta yang paling hebat bebas dari hacker, yaiyalah karena gk databasenya dan hostingan di flashdisk/HDD cuma menggunakan media github/Social code saja untuk bisa tampil di internet. oke gitu aja pengenalannya.</p>
+
+<h5>Berikut cara menginstall/mengganti theme pada Octopress :</h5>
+
+<ol>
+<li>Buka git-scm/Git bash #/sudah diinstall semua komponen Framework Octapress</li>
+<li>Ketik Directory Octopress kalian :
+
+<blockquote><p>$ cd Documents/Github/[Forder Octo]/[forder kalian]/</p></blockquote></li>
+<li>Kalau sudah selesai pidah directory langsung teruskan langkah dengan mengetik kode ini :
+
+<blockquote><p>$ git submodule add GIT_URL .themes/THEME_NAME</p></blockquote></li>
+<li>Lanjut ketik ini untuk install theme Octapress:
+
+<blockquote><p>$ rake install[&lsquo;THEME_NAME&rsquo;]</p></blockquote></li>
+<li>Klau udah selesai bisa di Generate dlu
+
+<blockquote><p>$ rake generate</p></blockquote></li>
+<li>Terus dihostingkan di Github
+
+<blockquote><p>$ Rake deploy</p></blockquote></li>
+<li>Selesai, coba lihat !!</li>
+</ol>
+
+
+<p><br/>
+Dari disilah ilmu kamu bertambah, dan semoga bermanfaat bagi kalian semua.</p>
+
+<h3>Note : download theme disini, copy link dan nama theme taruh pda git-scm!! # <a href="https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes">Theme Kesini</a></h3>
+]]></content>
+  </entry>
+  
+</feed>
