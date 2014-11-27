@@ -4,7 +4,7 @@
   <title><![CDATA[Newbie Tech]]></title>
   <link href="http://febritecno.github.io/atom.xml" rel="self"/>
   <link href="http://febritecno.github.io/"/>
-  <updated>2014-11-27T07:44:23-08:00</updated>
+  <updated>2014-11-27T07:50:08-08:00</updated>
   <id>http://febritecno.github.io/</id>
   <author>
     <name><![CDATA[febritecno]]></name>
@@ -35,11 +35,11 @@
 <p><strong>Octopress</strong> adalah Jekyll blogging yang terbaik dan responsif.</p>
 
 <p>Keunggulan Octopress :
-- Octopress sports a clean responsive theme written in semantic HTML5, focused on readability and friendliness toward mobile devices.
-- Code blogging is easy and beautiful. Embed code (with Solarized styling) in your posts from gists, jsFiddle or from your filesystem.
-- Third party integration is simple with built-in support for Pinboard, Delicious, GitHub Repositories, Disqus Comments and Google Analytics.
-- It&rsquo;s easy to use. A collection of rake tasks simplifies development and makes deploying a cinch.
-- Ships with great plug-ins some original and others from the Jekyll community — tested and improved.</p>
+1. Octopress sports a clean responsive theme written in semantic HTML5, focused on readability and friendliness toward mobile devices.
+2. Code blogging is easy and beautiful. Embed code (with Solarized styling) in your posts from gists, jsFiddle or from your filesystem.
+3. Third party integration is simple with built-in support for Pinboard, Delicious, GitHub Repositories, Disqus Comments and Google Analytics.
+4. It&rsquo;s easy to use. A collection of rake tasks simplifies development and makes deploying a cinch.
+5. Ships with great plug-ins some original and others from the Jekyll community — tested and improved.</p>
 
 <p>Catatan : Octopress memerlukan versi Ruby minimal 1.9.3 - p0</p>
 
