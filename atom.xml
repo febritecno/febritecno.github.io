@@ -4,7 +4,7 @@
   <title><![CDATA[Newbie Tech]]></title>
   <link href="http://febritecno.github.io/atom.xml" rel="self"/>
   <link href="http://febritecno.github.io/"/>
-  <updated>2014-11-27T06:10:27-08:00</updated>
+  <updated>2014-11-27T07:36:48-08:00</updated>
   <id>http://febritecno.github.io/</id>
   <author>
     <name><![CDATA[febritecno]]></name>
@@ -18,7 +18,38 @@
     <link href="http://febritecno.github.io/blog/2014/11/16/yuk-kenalan-dulu-sama-framework-octopress/"/>
     <updated>2014-11-16T14:50:44-08:00</updated>
     <id>http://febritecno.github.io/blog/2014/11/16/yuk-kenalan-dulu-sama-framework-octopress</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><img src="http://febritecno.github.io/gbr/1.png" alt="theme" /></p>
+
+<p>Sebelum saya mengenalkan jauh tentang Framework ini. Mari kita bersama-sama mengenal dulu apa sih octopress ?? :). saya yakin yang belum pernah mengenal pasti bertanya-tanya octopress itu apa dan dsb.yuk kita kenalan dulu.</p>
+
+<!---more--->
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>Octopress Framework adalah kerangka yang dirancang obsesif untuk Jekyll blogging, Sangat mudah untuk mengkonfigurasi dan mudah untuk menyebarkannya.
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h5>Apa itu Octopress ?</h5>
+
+<p><strong>Octopress</strong> adalah Jekyll blogging yang terbaik dan responsif.</p>
+
+<p>Keunggulan Octopress :
+- Octopress sports a clean responsive theme written in semantic HTML5, focused on readability and friendliness toward mobile devices.
+- Code blogging is easy and beautiful. Embed code (with Solarized styling) in your posts from gists, jsFiddle or from your filesystem.
+- Third party integration is simple with built-in support for Pinboard, Delicious, GitHub Repositories, Disqus Comments and Google Analytics.
+- It&rsquo;s easy to use. A collection of rake tasks simplifies development and makes deploying a cinch.
+- Ships with great plug-ins some original and others from the Jekyll community — tested and improved.</p>
+
+<p>Catatan : Octopress memerlukan versi Ruby minimal 1.9.3 - p0</p>
+
+<p>Menurut saya octopress merupakan Framework yang mudah untuk dipelajari dan portable bisa disimpan di Flashdiks. untuk penginstallannya tidak membuntuhkan hal yang sulit, tinggal lihat tutor selesailah sudah !! paling enak tidak menggunakan Xammp dan tidak memiliki database.</p>
+
+<p>Saya lihat bahwa pengguna octopress masih sangatlah sedikit dan kurang diminati !! padahal menggunakannya sangat mudah dan efisian sekali.</p>
+
+<p>Anda bisa belajar octopress disini -> <a href="http://octopress.org/docs/">Octopress pusat/pengembangnya</a></p>
+
+<p>Sekian, kalau minat seilahkan belajar disini atau di website lain :) thx</p>
 ]]></content>
   </entry>
   
